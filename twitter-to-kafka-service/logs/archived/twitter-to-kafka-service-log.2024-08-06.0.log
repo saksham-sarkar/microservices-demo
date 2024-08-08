@@ -1,0 +1,6 @@
+2024-08-06 09:08:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.9 on DESKTOP-NMDDEBR with PID 8300 (D:\Users\saksh\Projects\microservices-demo\twitter-to-kafka-service\target\classes started by Saksham Sarkar in D:\Users\saksh\Projects\microservices-demo)
+2024-08-06 09:08:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - The following 1 profile is active: "dev"
+2024-08-06 09:08:41 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.436 seconds (JVM running for 2.858)
+2024-08-06 09:09:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.9 on DESKTOP-NMDDEBR with PID 12296 (D:\Users\saksh\Projects\microservices-demo\twitter-to-kafka-service\target\classes started by Saksham Sarkar in D:\Users\saksh\Projects\microservices-demo)
+2024-08-06 09:09:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - The following 1 profile is active: "dev"
+2024-08-06 09:09:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.301 seconds (JVM running for 2.807)
